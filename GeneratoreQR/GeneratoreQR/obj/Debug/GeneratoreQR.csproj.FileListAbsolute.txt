@@ -1,0 +1,13 @@
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\bin\Debug\GeneratoreQR.exe
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\bin\Debug\GeneratoreQR.pdb
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\bin\Debug\QRCoder.dll
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.Form1.resources
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.Properties.Resources.resources
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.csproj.GenerateResource.cache
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.csproj.CopyComplete
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.exe
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\obj\Debug\GeneratoreQR.pdb
+C:\Users\Huawei\Desktop\alius\gg\GeneratoreQR\GeneratoreQR\bin\Debug\GeneratoreQR.exe.config
